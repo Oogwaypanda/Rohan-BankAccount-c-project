@@ -2,7 +2,7 @@
 **Rohan-BankAccount-project**
 
 This repository contains my bankAccount project .
-This project implements a basic bankAccount management system.
+This project implements a basic bankAccount management system .
 
 ## Features:-
 
