@@ -1,8 +1,17 @@
-**CPP-Projects Using c++**
+# CPP-Projects Using c++
+**Rohan-BankAccount-project**
 
 This repository contains my bankAccount project .
 This project implements a basic bankAccount management system.
 
-**FEATURES:-**
+## FEATURES:-
 
-It provides features like creating Account , depositing or withdrawing money and checking balances .
+It provides features like :-
+
+* creating Account 
+* depositing 
+* withdrawing money 
+* checking balances
+
+### Installation
+* git clone https://github.com/Oogwaypanda/Rohan-BankAccount-c-project.git
