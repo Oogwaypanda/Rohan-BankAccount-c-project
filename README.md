@@ -4,7 +4,7 @@
 This repository contains my bankAccount project .
 This project implements a basic bankAccount management system.
 
-## FEATURES:-
+## Features:-
 
 It provides features like :-
 
